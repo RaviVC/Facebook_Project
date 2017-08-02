@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35714" started-at="2017-07-26T12:59:49Z" finished-at="2017-07-26T13:00:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35714" started-at="2017-07-26T12:59:49Z" finished-at="2017-07-26T13:00:24Z">
+      <class name="project_facebook_usedcases.Facebook_Login">
+        <test-method status="PASS" signature="getBrowserDetails()[pri:0, instance:project_facebook_usedcases.Facebook_Login@7cd62f43]" name="getBrowserDetails" is-config="true" duration-ms="8435" started-at="2017-07-26T18:29:49Z" finished-at="2017-07-26T18:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowserDetails -->
+        <test-method status="PASS" signature="facebookLaunch()[pri:0, instance:project_facebook_usedcases.Facebook_Login@7cd62f43]" name="facebookLaunch" duration-ms="9828" started-at="2017-07-26T18:29:57Z" finished-at="2017-07-26T18:30:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookLaunch -->
+        <test-method status="PASS" signature="LoginFacebook()[pri:1, instance:project_facebook_usedcases.Facebook_Login@7cd62f43]" name="LoginFacebook" duration-ms="17434" started-at="2017-07-26T18:30:07Z" finished-at="2017-07-26T18:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFacebook -->
+        <test-method status="PASS" signature="logout()[pri:2, instance:project_facebook_usedcases.Facebook_Login@7cd62f43]" name="logout" duration-ms="1" started-at="2017-07-26T18:30:24Z" finished-at="2017-07-26T18:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:project_facebook_usedcases.Facebook_Login@7cd62f43]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-07-26T18:30:24Z" finished-at="2017-07-26T18:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- project_facebook_usedcases.Facebook_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
