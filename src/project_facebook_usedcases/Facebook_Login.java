@@ -69,6 +69,7 @@ public class Facebook_Login extends BaseClass
 		//logger = report.startTest("facebookLaunch");
 		//logger.log(LogStatus.INFO, "Facebook Application is up and running");
 		
+		//This is my second commit
 		driver.get("https://www.facebook.com/");
 		Thread.sleep(5000);
 		Utility.captureScreenshot(driver, "facebooklaunch");
